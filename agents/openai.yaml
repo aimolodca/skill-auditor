@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Auditor"
+  short_description: "Audit and optimize skills without regressions"
+  default_prompt: "Use $skill-auditor to audit this skill, reduce wasted context, and preserve its behavior."
